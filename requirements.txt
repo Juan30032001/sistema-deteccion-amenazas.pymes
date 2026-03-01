@@ -1,0 +1,13 @@
+# Librerías principales
+streamlit>=1.28.0
+pandas>=2.1.0
+numpy>=1.26.0
+scapy>=2.5.0
+scikit-learn>=1.3.0
+
+# Librerías auxiliares (ya vienen con las anteriores, pero se incluyen por seguridad)
+python-dateutil>=2.8.2
+pytz>=2023.3
+six>=1.16.0
+joblib>=1.3.2
+threadpoolctl>=3.2.0
